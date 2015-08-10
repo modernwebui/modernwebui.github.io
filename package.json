@@ -41,6 +41,7 @@
     "ember-legacy-views": "0.2.0",
     "ember-material-lite": "0.1.5",
     "ember-new-computed": "1.0.2",
+    "ember-suave": "1.0.0",
     "ember-truth-helpers": "1.0.0"
   }
 }
