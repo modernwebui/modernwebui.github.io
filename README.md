@@ -1,6 +1,9 @@
 # Modernwebui
 
 [![Build Status](https://travis-ci.org/modernwebui/modernwebui.github.io.svg?branch=main)](https://travis-ci.org/modernwebui/modernwebui.github.io)
+[![Code Climate](https://codeclimate.com/github/modernwebui/modernwebui.github.io/badges/gpa.svg)](https://codeclimate.com/github/modernwebui/modernwebui.github.io)
+[![Dependency Status](https://david-dm.org/modernwebui/modernwebui.github.io.svg)](https://david-dm.org/modernwebui/modernwebui.github.io)
+[![devDependency Status](https://david-dm.org/modernwebui/modernwebui.github.io/dev-status.svg)](https://david-dm.org/modernwebui/modernwebui.github.io#info=devDependencies)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
